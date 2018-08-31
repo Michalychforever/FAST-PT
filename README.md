@@ -4,6 +4,8 @@ FASTPT is a code to calculate quantities in cosmological perturbation theory at 
 The code utilizes Fourier methods combined with analytic expressions to reduce the computation time
 to scale as N log N, where N is the number of grid points in the input linear power spectrum. 
 
+This branch contains an implementation of IR resummation algorith presented in 1605.02149.
+
 FAST-PT way to get started: 
 
 * Make sure you have current numpy, scipy, and matplotlib
